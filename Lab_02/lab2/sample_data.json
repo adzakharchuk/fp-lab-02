@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "олена коваль", "category": "Open", "results": [88, 91, 95]},
+  {"id": 2, "name": "максим шевченко", "category": "Junior", "results": [90, 92, 89]},
+  {"id": 3, "name": "ірина бондар", "category": "Open", "results": [96, 94, 97]},
+  {"id": 4, "name": "артем мельник", "category": "Senior", "results": [82, 85, 84]},
+  {"id": 5, "name": "софія ткач", "category": "Junior", "results": [93, 95, 94]},
+  {"id": 6, "name": "денис романюк", "category": "Open", "results": [70, 74, 72]},
+  {"id": 7, "name": "марія олійник", "category": "Senior", "results": [89, 90, 88]},
+  {"id": 8, "name": "богдан савчук", "category": "Open", "results": [98, 98, 99]},
+  {"id": 9, "name": "анна полянська", "category": "Junior", "results": [76, 80, 78]},
+  {"id": 10, "name": "роман бублик", "category": "Senior", "results": [91, 90, 92]}
+]
